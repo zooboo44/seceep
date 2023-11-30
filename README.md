@@ -12,3 +12,7 @@ Seceep is a Free and Open Source passwords and secrets management server built i
   - Bio authentication
 - Strong Random Password generation
 - Teams/groups
+
+# Technologies
+- gRPC to execute commands on the server
+- PostgreSQL to store user data and passwords/secrets
