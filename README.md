@@ -9,5 +9,6 @@ Seceep is a Free and Open Source passwords and secrets management server built i
 - MFA
   - Authenticator apps (google authenticator, microsoft authenticator, etc.)
   - Hardware keys (Yubikey, CryptoTrust, Kensington, etc.)
+  - Bio authentication
 - Strong Random Password generation
 - Teams/groups
